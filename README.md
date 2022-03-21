@@ -4,7 +4,7 @@
 
 ## Data Environment
 
-*Anaconda / GitBash / Jupyter Notebook / Numpy / Pandas / Python *
+* Anaconda / GitBash / Jupyter Notebook / Numpy / Pandas / Python
 
 ## Goal for code
 
